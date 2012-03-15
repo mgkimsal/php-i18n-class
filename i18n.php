@@ -10,7 +10,12 @@ class i18n {
 	protected $_phrases = array();
 	
 
-	public function __construct($dir = APP_BASE, $lang="en")
+	/**
+	 * Constructor
+	 * @param String $lang language file to load (en=messages_en.txt, etc)
+	 * @param String $dir directory to the language files
+	 */
+	public function __construct($lang="en", $dir = APP_BASE)
 	{
 		$this->setLang($lang);
 		$this->setDir($dir.$this->path.DIRECTORY_SEPARATOR);
@@ -72,7 +77,7 @@ class i18n {
 
 }
 
-$i = new i18n();
+$i = new i18n("en");
 echo $i->getPhrase("invalid.creditCard","8123987213");
 echo $i->getPhrase("blank","Home");
 
