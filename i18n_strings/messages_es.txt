@@ -1,6 +1,6 @@
 efault.doesnt.match=La propiedad [{0}] de la clase [{1}] con valor [{2}] no corresponde al patr—n [{3}]
 invalid.url=La propiedad [{0}] de la clase [{1}] con valor [{2}] no es una URL v‡lida
-invalid.creditCard=La propiedad [{0}] de la clase [{1}] con valor [{2}] no es un nœmero de tarjeta de cr
+invalid.creditCard={0} no es un nœmero de tarjeta de credit v‡lida
 invalid.email=La propiedad [{0}] de la clase [{1}] con valor [{2}] no es una direcci—n de correo electr—
 invalid.range=La propiedad [{0}] de la clase [{1}] con valor [{2}] no entra en el rango v‡lido de [{3}] 
 invalid.size=La propiedad [{0}] de la clase [{1}] con valor [{2}] no entra en el tama–o v‡lido de [{3}] 
