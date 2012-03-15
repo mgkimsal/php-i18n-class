@@ -1,0 +1,19 @@
+efault.doesnt.match=La propiedad [{0}] de la clase [{1}] con valor [{2}] no corresponde al patr—n [{3}]
+invalid.url=La propiedad [{0}] de la clase [{1}] con valor [{2}] no es una URL v‡lida
+invalid.creditCard=La propiedad [{0}] de la clase [{1}] con valor [{2}] no es un nœmero de tarjeta de cr
+invalid.email=La propiedad [{0}] de la clase [{1}] con valor [{2}] no es una direcci—n de correo electr—
+invalid.range=La propiedad [{0}] de la clase [{1}] con valor [{2}] no entra en el rango v‡lido de [{3}] 
+invalid.size=La propiedad [{0}] de la clase [{1}] con valor [{2}] no entra en el tama–o v‡lido de [{3}] 
+invalid.max=La propiedad [{0}] de la clase [{1}] con valor [{2}] excede el valor m‡ximo [{3}]
+invalid.min=La propiedad [{0}] de la clase [{1}] con valor [{2}] es menos que el valor m’nimo [{3}]
+invalid.max.size=La propiedad [{0}] de la clase [{1}] con valor [{2}] excede el tama–o m‡ximo de [{3}]
+invalid.min.size=La propiedad [{0}] de la clase [{1}] con valor [{2}] es menor que el tama–o m’nimo de [
+invalid.validator=La propiedad [{0}] de la clase [{1}] con valor [{2}] no es v‡lido
+not.inlist=La propiedad [{0}] de la clase [{1}] con valor [{2}] no esta contenido dentro de la lista [{3
+blank=La propiedad [{0}] de la clase [{1}] no puede ser vac’a
+not.equal=La propiedad [{0}] de la clase [{1}] con valor [{2}] no puede igualar a [{3}]
+null=La propiedad [{0}] de la clase [{1}] no puede ser nulo
+not.unique=La propiedad [{0}] de la clase [{1}] con valor [{2}] debe ser œnica
+
+paginate.prev=Anterior
+paginate.next=Siguiente
