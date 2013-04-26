@@ -37,8 +37,8 @@ class i18n {
 		if(!file_exists($filename)) {
 			return false;
 		}
-		$f = file($file);
-		foreach($f as $line){
+		$file = file($filename);
+		foreach($file as $line){
 			list($key,$value) = explode("=",$line);
 			$this->_phrases[$key] = $value;
 		}
