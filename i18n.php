@@ -59,7 +59,7 @@ class i18n {
 	 * 
 	 * @return String (or null if phrase isn't found)
 	 */
-	public function getPhrase($phrase)
+	public function getPhrase($string)
 	{
 		$args = func_get_args();
 		array_shift($args);
